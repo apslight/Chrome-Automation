@@ -1,3 +1,7 @@
+# Author : Aditya Pratap SIngh
+# mailto : aps11@iitbbs.ac.in
+
+
 import getpass
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
